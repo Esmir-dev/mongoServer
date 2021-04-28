@@ -1,5 +1,5 @@
 # mongoServer
-# My first NodeJS & mongodb Server
+# My first NodeJS & MongoDB Server
 
 This is the second part of nodejs and mongodb app server. We made mongo database for app server.
 
