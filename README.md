@@ -30,4 +30,4 @@ Open http://localhost:5000/ and also use /students or /courses , and enjoy. :)
 * webpack-cli
 * webpack-node-externals
 
-We added/installed lodash and mongoose in the previous nodeServer library in dependencies.
+We added/installed lodash and mongoose to the previous nodeServer library in dependencies.
