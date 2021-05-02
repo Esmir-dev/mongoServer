@@ -5,7 +5,7 @@ This is the second part of nodejs and mongodb app server. We made mongo database
 
 ## Before we started we installed:
 * MongoDb
-* Robo3T (because of problems with robo3T I also used MongoDB Compass)
+* Robo3T (because of problems with robo3T I used MongoDB Compass as well)
 * Postman
 
 # Running Locally
